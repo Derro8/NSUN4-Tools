@@ -1,6 +1,8 @@
 
 '''
  Scans through all the xfbins in the given directory then replaces dds data with gnf data.
+ Please download orbis-image2gnf and put it in this directory. 
+ I am unable to add the needed files in here due to legal reasons (I don't actually know if it's illegal to add the files I just saw it somewhere and I don't want to test it).
 '''
 
 import sys
